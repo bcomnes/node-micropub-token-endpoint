@@ -1,10 +1,10 @@
 {
   "name": "token-endpoint",
   "description": "A micropub token endpoint library and server",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Bret Comnes <bcomnes@gmail.com>",
   "bugs": {
-    "url": "https://github.com/bcomnes/token-endpoint/issues"
+    "url": "https://github.com/bcomnes/node-token-endpoint/issues"
   },
   "devDependencies": {
     "codeclimate-test-reporter": "^0.1.0",
@@ -13,7 +13,7 @@
     "tap-spec": "^4.0.2",
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/bcomnes/token-endpoint",
+  "homepage": "https://github.com/bcomnes/node-token-endpoint",
   "keywords": [
     "auth",
     "micropub",
@@ -26,7 +26,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bcomnes/token-endpoint.git"
+    "url": "https://github.com/bcomnes/node-token-endpoint.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js | tap-spec"
