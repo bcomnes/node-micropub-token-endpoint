@@ -5,8 +5,8 @@
 
 [npm-image]: https://img.shields.io/npm/v/token-endpoint.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/token-endpoint
-[travis-image]: https://img.shields.io/travis/bcomnes/token-endpoint.svg?style=flat-square
-[travis-url]: https://travis-ci.org/bcomnes/token-endpoint
+[travis-image]: https://img.shields.io/travis/bcomnes/node-token-endpoint.svg?style=flat-square
+[travis-url]: https://travis-ci.org/bcomnes/node-token-endpoint
 
 A micropub token endpoint library and server
 

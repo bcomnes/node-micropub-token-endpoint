@@ -32,6 +32,8 @@
     "test": "standard && tape test/*.js | tap-spec"
   },
   "dependencies": {
-    "jsonwebtoken": "^5.0.4"
+    "jsonwebtoken": "^5.0.4",
+    "microformat-node": "^0.3.0",
+    "request": "^2.59.0"
   }
 }
