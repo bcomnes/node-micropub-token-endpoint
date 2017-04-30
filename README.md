@@ -1,5 +1,7 @@
 # token-endpoint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/node-token-endpoint.svg)](https://greenkeeper.io/)
+
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
 
