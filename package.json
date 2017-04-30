@@ -7,9 +7,9 @@
     "url": "https://github.com/bcomnes/node-token-endpoint/issues"
   },
   "devDependencies": {
-    "codeclimate-test-reporter": "^0.1.0",
-    "istanbul": "^0.3.17",
-    "standard": "^4.5.4",
+    "codeclimate-test-reporter": "^0.4.1",
+    "istanbul": "^0.4.5",
+    "standard": "^10.0.2",
     "tap-spec": "^4.0.2",
     "tape": "^4.0.0"
   },
@@ -32,8 +32,8 @@
     "test": "standard && tape test/*.js | tap-spec"
   },
   "dependencies": {
-    "jsonwebtoken": "^5.0.4",
-    "microformat-node": "^0.3.0",
+    "jsonwebtoken": "^7.4.0",
+    "microformat-node": "^2.0.1",
     "request": "^2.59.0"
   }
 }
